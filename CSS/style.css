@@ -1,0 +1,281 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:  hsl(207, 53%, 93%);
+    font-size: 16px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.container{
+    background-color: hsl(0, 0%, 100%);
+    width: 689px;
+    height: 899px;
+    margin: 40px auto 70px auto;
+    border-radius: 20px;
+    border-top-left-radius: 20px;
+    box-shadow: 4px 3px 20px black;
+}
+
+.nav{
+    background-color: hsl(0, 0%, 100%);
+    width: 630px;
+    height: 60px;
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+
+}
+
+#paragraph{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+#three{
+    background-color: hsl(239, 83%, 34%);
+    font-size: 16px;
+    width:30px;
+    height: 15px;
+    color: white;
+    font-weight: 600;
+    border-radius: 30%;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 15px;
+   
+    
+   
+}
+
+.number{
+   font-family:'Lexend', sans-serif;;
+   margin-top: auto;
+   margin-left: 10px;
+   margin-bottom: auto;
+   font-size: 18px;
+   font-style: oblique -50deg;
+   font-display: ;
+   
+}
+
+
+#right{
+    position: absolute;
+    right: 450px;
+}
+
+#right:hover{
+    text-decoration: underline;
+    color: #FF8080;
+}
+
+.mark{
+    background-color:hsl(210, 60%, 98%);
+    width: 600px;
+    height: 60px;
+    padding: 8px;
+    margin: 2px auto 10px 20px ;
+    border-radius: 7px;
+
+
+}
+
+.mark img{
+    width: 40px;
+    float: left;
+    margin: 8px 15px 0 15px;
+
+}
+
+.mark p{
+    margin: 8px 0 0 3px;
+    font-size: 15px;
+
+}
+
+.mark-span{
+    font-weight: 600;
+
+     
+}
+
+.recent{
+    color:hsl(204, 20%, 64%);
+    font-weight: 400;
+}
+
+#mark{
+    color:hsl(204, 20%, 64%);
+    font-weight: 400;
+    margin-left: px
+}
+
+.first{
+    color: hsl(219, 19%, 33%);
+    font-weight: 600;
+}
+
+
+
+mark p{
+    margin: 0 auto 5px 6px;
+}
+
+
+.Angela{
+    background-color:hsl(210, 60%, 98%);
+    width: 600px;
+    height: 60px;
+    padding: 8px;
+    margin: 0 auto 10px 20px ;
+    border-radius: 7px;
+
+
+}
+
+.Angela img{
+    width: 40px;
+    float: left;
+    margin: 8px 15px 0 15px;
+}
+
+.Angela p{
+    margin: 8px 0 0 3px;
+    font-size: 15px;
+}
+
+.ago{
+    color:hsl(204, 20%, 64%);
+    font-weight: 400;
+    margin-left: px
+}
+
+.Jacob{
+    background-color:hsl(210, 60%, 98%);
+    width: 600px;
+    height: 60px;
+    padding: 8px;
+    margin: 2px auto 10px 20px ;
+    border-radius: 7px;
+}
+
+.Jacob img{
+    width: 40px;
+    float: left;
+    margin: 8px 15px 0 15px;
+}
+
+.chess-club{
+    color: darkblue;
+    font-weight: 400px;
+}
+
+.Rizky{
+    background-color: hsl(0, 0%, 100%);
+    width: 600px;
+    height: 200px;
+    padding: 8px;
+    margin: 2px auto 3px 20px ;
+    border-radius: 7px;
+}
+
+.Rizky img{
+    width: 40px;
+    float: left;
+    margin: 8px 15px 0 15px;
+}
+
+
+.Rizky-sub{
+    border-style: ridge;
+    width: 500px ;
+    margin-left: 80px;
+    border-width: 1px;
+    color:hsl(206, 16%, 40%);
+    font-weight: 400;
+    margin-bottom: 70px;
+    padding: 8px;
+}
+
+.sub{
+    margin-left: 5px;
+}
+
+
+.Kimberly{
+    background-color: hsl(0, 0%, 100%);
+    width: 600px;
+    height: 70px;
+    padding: 8px;
+    margin: 0 auto 10px -7px ;
+    border-radius: 7px;
+    border-radius: 7px;
+}
+
+.Kimberly p{
+    float: left;
+    margin: 8px 0 0 3px;
+    font-size: 15px;
+}
+
+#second-img{
+    margin-left: 135px;
+    margin-top: 25px ;
+}
+  
+
+
+.Nathan{
+    background-color: hsl(0, 0%, 100%);
+    width: 600px;
+    height: 65px;
+    padding: 8px;
+    margin: 2px auto 10px -7px ;
+    border-radius: 7px;
+}
+
+.Nathan img{
+    width: 40px;
+    float: left;
+    margin: 8px 15px 0 15px;
+}
+
+.Nathan p{
+    margin: 8px 0 0 3px;
+    font-size: 15px;
+}
+
+
+.nathan-ago{
+    color:hsl(204, 20%, 64%);
+    font-weight: 400;
+    margin-left:px
+}
+
+#end{
+    color: hsl(218, 20%, 39%);
+    font-weight: 600;
+}
+
+.Anna{
+    background-color: hsl(0, 0%, 100%);
+    width: 600px;
+    height: 65px;
+    padding: 8px;
+    margin: 2px auto 10px -7px ;
+    border-radius: 7px;
+}
+
+.Anna img{
+    width: 40px;
+    float: left;
+    margin: 8px 15px 0 15px;
+}
+
+.Anna p{
+    margin: 8px 0 0 3px;
+    font-size: 15px;
+}
